@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently developing my **personal portfolio website** showcasing my projects [My portfolio](https://github.com/Vignesh061/Portfolio).
+- 🔭 Currently developing my **personal portfolio website** showcasing my projects [My portfolio](https://vignesh061.github.io/Portfolio/).
 - 🌱 Learning **Tailwind CSS**, **React**, and **modern JavaScript frameworks**.
 - 👯 Open to collaborating on **innovative frontend projects** that challenge my skills.
 - 🎯 Goal: Becoming a **Full-Stack Developer** in the next year.
