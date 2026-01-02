@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to My Profile! I'm Vignesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Web+Developer;Frontend+%26+Backend+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -13,39 +13,55 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently developing my **personal portfolio website** showcasing my projects [My portfolio](https://vignesh061.github.io/Portfolio/).
-- 🌱 Learning **Tailwind CSS**, **React**, and **modern JavaScript frameworks**.
-- 👯 Open to collaborating on **innovative frontend projects** that challenge my skills.
-- 🎯 Goal: Becoming a **Full-Stack Developer** in the next year.
-- 📫 Reach me at: **vigneshvicky3611@gmail.com**
-- ⚡ Fun fact: I love solving coding puzzles on **HackerRank** in my free time!
+I am a **pre-final year Computer Science and Engineering student** , aspiring to build impactful web applications that solve real-world problems.
+
+- 💼 **Seeking:** Internship & Entry-Level Opportunities as a Web Developer
+- 🎨 **Frontend:** HTML, CSS, JavaScript — creating responsive and user-friendly interfaces
+- ⚙️ **Backend:** Python, Flask, REST APIs — developing server-side logic and handling data efficiently
+- 🗄️ **Databases:** MySQL and MongoDB — managing and structuring data for applications
+- 🌱 **Currently Learning:** Tailwind CSS, React, and modern web development best practices
+- 🔭 **Working On:** My personal portfolio website showcasing my projects [My portfolio](https://vignesh061.github.io/Portfolio/)
+- 🎯 **Goal:** Becoming a proficient Full-Stack Developer through hands-on projects and continuous learning
+- 💡 **Passionate About:** Exploring how frontend and backend systems work together to build scalable and reliable web solutions
+- 📫 **Reach Me At:** vigneshx05@gmail.com
+- ⚡ **Fun Fact:** I love solving coding puzzles on HackerRank in my free time!
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧰 Languages
+### 🎨 Frontend Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### 🛠️ Frameworks & Libraries
-
-<p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/REST_API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 ### 🧩 Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
@@ -54,38 +70,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh061&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="Vignesh's GitHub Stats" width="40%" style="padding: 20px;" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh061&theme=algolia&hide_border=false" alt="GitHub Streak" width="40%" style="padding: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh061&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="Vignesh's GitHub Stats" height="180em" /> 
+  <img src="https://streak-stats.demolab.com/?user=Vignesh061&theme=algolia&hide_border=false" alt="GitHub Streak" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh061&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh061&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="180em" />
 </div>
-
----
-
-## 🏆 Featured Project
-
-### 🏠 HomyStay - Guest House Booking System
-
-A responsive booking platform for guest houses with an intuitive UI and seamless booking functionality.
-
-**Tech Stack:** HTML5, CSS3, JavaScript
-
-🔗 **[Live Demo Here](https://vignesh061.github.io/Guest-House-Booking-System-Html-CSS-JavaScript/)**
 
 ---
 
 ## ✨ Favorite Quote
 
-> *“Programs must be written for people to read, and only incidentally for machines to execute.”*  
-> — **Harold Abelson**
+> *"Design with purpose. Develop with passion. Deploy with confidence."*  
+> **🧠 Design • 💻 Develop • 🌍 Deploy**
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
+ <a href="https://vignesh061.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF4088.svg?&style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://github.com/Vignesh061">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -103,5 +110,6 @@ A responsive booking platform for guest houses with an intuitive UI and seamless
 ---
 
 <div align="center">
+  <p>💼 Open to internship and entry-level opportunities!</p>
   <p>Thanks for visiting my profile! 😊</p>
 </div>
