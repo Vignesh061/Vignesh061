@@ -70,7 +70,6 @@ I am a **pre-final year Computer Science and Engineering student** , aspiring to
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh061&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="Vignesh's GitHub Stats" height="180em" /> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vignesh061&theme=chartreuse-dark" alt="GitHub Streak" height="180em"/></a>
 </div>
 
