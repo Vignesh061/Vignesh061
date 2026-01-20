@@ -70,21 +70,26 @@ I am a **pre-final year Computer Science and Engineering student** , aspiring to
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vignesh061&theme=chartreuse-dark" alt="GitHub Streak" height="180em"/></a>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh061&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="180em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vignesh061&theme=react&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh061&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="356"
+    alt="Top Languages">
+  
 </div>
 
 ---
 
+# LeetCode Info 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vignesh061?theme=dark&font=Mali&ext=heatmap)<p align="left">  
+
+---
 ## ✨ Favorite Quote
 
 > *"Design with purpose. Develop with passion. Deploy with confidence."*  
 > **🧠 Design • 💻 Develop • 🌍 Deploy**
 
 ---
+
 
 ## 🤝 Connect With Me
 
@@ -107,7 +112,7 @@ I am a **pre-final year Computer Science and Engineering student** , aspiring to
 </p>
 
 ---
-
+  
 <div align="center">
   <p>💼 Open to internship and entry-level opportunities!</p>
   <p>Thanks for visiting my profile! 😊</p>
